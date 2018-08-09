@@ -1,5 +1,6 @@
 class LongestIncreasingSubsequence {
-  public int lengthOfLIS(int[] nums) {
+
+    public int lengthOfLIS(int[] nums) {
     if (nums.length == 0) {
       return 0;
     }
